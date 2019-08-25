@@ -1,0 +1,23 @@
+html, body {
+   
+}
+
+.headers {
+    border: solid black;
+    width: 100%;
+    
+    
+}
+
+h4 {
+    text-decoration-color: aqua;
+    padding-left: 2%;
+}
+
+
+/* #intro {
+     
+     background-image: url(img/self-diagnosis.png);
+     background-size: auto;
+    
+ }*/
